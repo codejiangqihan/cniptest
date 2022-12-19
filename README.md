@@ -1,3 +1,4 @@
+![](https://img.shields.io/github/repo-size/codejiangqihan/cniptest)
 # 介绍
 这是一个Python库，它可以查看当前的IP地址
 # 获取iPv4地址
